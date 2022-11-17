@@ -1,0 +1,43 @@
+* {
+    margin: 1em 1em 1em 1em;
+}
+
+div {
+    display: block;
+}
+
+#intro {
+    width: 600px;
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    /* text-align: center; */
+    /* color: blue; */
+    font-size: 3em;
+}
+
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2em;
+}
+
+a {
+    color: blue;
+}
+
+p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: chocolate 3px;
+}
+
+ul {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-indent: 10px;
+    border-color: blue;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
